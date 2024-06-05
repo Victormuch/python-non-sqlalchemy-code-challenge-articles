@@ -1,3 +1,6 @@
+## GOOGLE DRIVE LINK
+https://drive.google.com/file/d/1IjajjPGkFpTcC7OCd-JdKa_BZZKUkIEh/view?usp=sharing
+
 # Phase 3 Code Challenge: Articles - without SQLAlchemy (Updated)
 
 In this code challenge, you will be working with a Magazine domain.
